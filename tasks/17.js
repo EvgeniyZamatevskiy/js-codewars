@@ -6,4 +6,4 @@ function areYouPlayingBanjo(name) {
    }
 }
 
-console.log(areYouPlayingBanjo('rolf'))
+console.log(areYouPlayingBanjo('rolf')) // rolf plays banjo
