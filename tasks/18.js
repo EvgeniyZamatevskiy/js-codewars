@@ -9,4 +9,4 @@ function countSheeps(arrayOfSheep) {
    return arrayOfSheep.filter(Boolean).length
 }
 
-console.log(countSheeps(array))
+console.log(countSheeps(array)) // 17
