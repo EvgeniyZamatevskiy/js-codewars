@@ -14,4 +14,4 @@ function sumArray(array) {
       return total
    }
 }
-console.log(sumArray([1, 2, 3, 4]))
+console.log(sumArray([1, 2, 3, 4])) // 5
