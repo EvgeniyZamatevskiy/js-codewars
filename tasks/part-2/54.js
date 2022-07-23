@@ -1,5 +1,5 @@
-function solution(str) {
-	return str.split('').reverse().join('')
+function repeatStr(n, s) {
+	return s.repeat(n)
 }
 
-console.log(solution('hello'))
+console.log(repeatStr(3, '*'))
